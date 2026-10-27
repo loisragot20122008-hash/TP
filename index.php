@@ -1,5 +1,5 @@
 <?php
-$nom = getenv('NOM') ?: 'inconnu';
+$nom = getenv('RAGOT') ?: 'inconnu';
 ?>
 <!DOCTYPE html>
 <html lang="fr">
